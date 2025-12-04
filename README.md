@@ -58,13 +58,3 @@ Git & GitHub (Versiyon Kontrolü)
 Bu proje Veri Bilimi ve Yapay Zeka alanındaki yetkinlikleri geliştirmek amacıyla hazırlanmıştır.
 
 
----
-
-### **Bunu da Yükleyelim ve Bitirelim**
-
-Dosyayı kaydedip kapattıktan sonra, terminalde şu sihirli üçlüyü (artık ezberledin) yaparak bu değişikliği de GitHub'a gönderelim:
-
-```bash
-git add .
-git commit -m "README dosyasi eklendi"
-git push
