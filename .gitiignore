@@ -1,0 +1,14 @@
+# Gereksiz Python dosyaları
+__pycache__/
+*.py[cod]
+
+# PyCharm ayar dosyaları (Başkası senin ayarlarını görmesin)
+.idea/
+
+# Sanal ortam (Varsa)
+venv/
+env/
+.env
+
+# Modeller çok büyükse yüklenmez ama şimdilik kalsın.
+# Eğer 100MB'dan büyükse buraya *.pkl yazmalısın.
